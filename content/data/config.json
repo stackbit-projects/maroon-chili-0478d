@@ -4,7 +4,7 @@
     "base_font": "system-sans",
     "palette": "orange",
     "header": {
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "ACCUEIL",
