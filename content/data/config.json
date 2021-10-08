@@ -4,7 +4,6 @@
     "base_font": "fira-sans",
     "palette": "orange",
     "header": {
-        "logo_img_alt": "SOGRANES",
         "has_nav": true,
         "nav_links": [
             {
