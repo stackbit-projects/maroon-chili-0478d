@@ -35,7 +35,7 @@ sections:
 
       *   Commerce générale import export.
     actions:
-      - label: Free Trial
+      - label: 'N'
         url: /signup
         style: primary
       - label: View Demo
