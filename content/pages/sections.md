@@ -51,7 +51,7 @@ sections:
             icon_position: right
         title: Commerce générale import export
       - title: Négociateur d'offres et contracts
-        image: /images/sunset-gd0e7fa0e7_1920.jpg
+        image: /images/Spices-bazaar.jpg
         image_alt: App user profile preview
         content: "**SOGRANES**\_est spécialisée en l’achat et la revente de produits alimentaires. Nous pouvons aussi sur demande, fournir des produits de commerce général.\n"
         actions:
