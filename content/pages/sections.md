@@ -41,7 +41,7 @@ sections:
         title: Représention commerciale
       - image: /images/pexels-quintin-gellar-2199293.jpg
         image_alt: App users welcoming a new member
-        content: "\_effectue des formalités de déclaration à la douane pour le compte de ses clients. A cet effet, elle procède à la passation, à la liquidation, au paiement puis à l’enlèvement des marchandises.\n"
+        content: "**SOGRANES**\_effectue des formalités de déclaration à la douane pour le compte de ses clients. A cet effet, elle procède à la passation, à la liquidation, au paiement puis à l’enlèvement des marchandises.\n"
         actions:
           - label: Learn More
             url: /features
