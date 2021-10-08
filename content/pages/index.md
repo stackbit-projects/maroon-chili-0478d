@@ -68,17 +68,17 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## ![](/images/port-gc53ad7b96\_1920.jpg)Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
   - section_id: reviews
