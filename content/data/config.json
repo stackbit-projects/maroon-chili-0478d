@@ -32,7 +32,8 @@
                 "style": "primary"
             }
         ],
-        "logo_img_alt": "SOGRANES"
+        "logo_img_alt": "SOGRANES",
+        "logo_img": "/images/LogoMakr-1MjajO-837c1845.png"
     },
     "footer": {
         "sections": [
