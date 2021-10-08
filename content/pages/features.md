@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: /images/logistics-g885a74769_1920.jpg
     image_alt: App preview on a phone and tablet
     content: >
       **SOGRANES** est situe sur le boulevard Charles -De gaule a N’Djamena. 
