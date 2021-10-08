@@ -1,7 +1,7 @@
 {
     "title": "Azimuth",
     "path_prefix": "/",
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "blue",
     "header": {
         "logo_img_alt": "SOGRANES",
