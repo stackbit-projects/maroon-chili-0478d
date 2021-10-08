@@ -19,8 +19,8 @@ sections:
     background: gray
     title: NOTRE MISSION
     subtitle: >-
-      L’objectif de NODE NEGOCE est essentiellement orienté vers le long terme,
-      ce qui nous confère des obligations de qualité de produits et de services
+      L’objectif de SOGRANES est essentiellement orienté vers le long terme, ce
+      qui nous confère des obligations de qualité de produits et de services
     features:
       - title: The Best Feature of Your Services
         image: /images/port-g0f240474e_1920.jpg
