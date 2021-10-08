@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: right
         title: Commerce générale import export
-      - title: Négociateur d'offres et contracst
+      - title: Négociateur d'offres et contracts
         image: /images/sunset-gd0e7fa0e7_1920.jpg
         image_alt: App user profile preview
         content: >-
