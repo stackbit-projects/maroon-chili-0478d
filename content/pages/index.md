@@ -11,7 +11,7 @@ sections:
       confirmée, sauront répondre à vos attentes et vous conseiller au mieux de
       vos intérêts.
     actions:
-      - label: EN SAV
+      - label: EN SAVOIR PLUS
         url: /features
         style: primary
   - section_id: features
