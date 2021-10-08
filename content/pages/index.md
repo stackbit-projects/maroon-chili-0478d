@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/cover-afdb_nso_in_2019-removebg-preview.png
     image_alt: App preview
-    title: 'SOGRANES '
+    title: SOGRANES ffc900
     content: >
       Notre équipe commerciale et notre back office, forts d’une expérience
       confirmée, sauront répondre à vos attentes et vous conseiller au mieux de
