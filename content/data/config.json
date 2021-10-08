@@ -2,7 +2,7 @@
     "title": "SOGRANES",
     "path_prefix": "/",
     "base_font": "fira-sans",
-    "palette": "purple",
+    "palette": "orange",
     "header": {
         "logo_img_alt": "SOGRANES",
         "has_nav": true,
