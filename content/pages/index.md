@@ -6,9 +6,10 @@ sections:
     image: /images/cover-afdb_nso_in_2019-removebg-preview.png
     image_alt: App preview
     title: SOGRANES VOTRE PARTENAIRE EN AFFAIRE
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Notre équipe commerciale et notre back office, forts d’une expérience
+      confirmée, sauront répondre à vos attentes et vous conseiller au mieux de
+      vos intérêts.
     actions:
       - label: Learn More
         url: /features
