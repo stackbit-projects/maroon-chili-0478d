@@ -38,7 +38,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        title: Représen
+        title: 'Représentqtion co,,erciqle'
       - title: Awesome Feature of Your Services
         image: /images/pexels-quintin-gellar-2199293.jpg
         image_alt: App users welcoming a new member
