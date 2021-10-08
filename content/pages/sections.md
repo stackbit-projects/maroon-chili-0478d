@@ -41,10 +41,7 @@ sections:
         title: Représention commerciale
       - image: /images/pexels-quintin-gellar-2199293.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: "\_effectue des formalités de déclaration à la douane pour le compte de ses clients. A cet effet, elle procède à la passation, à la liquidation, au paiement puis à l’enlèvement des marchandises.\n"
         actions:
           - label: Learn More
             url: /features
