@@ -43,7 +43,7 @@ sections:
         image_alt: App users welcoming a new member
         content: "**SOGRANES**\_effectue des formalités de déclaration à la douane pour le compte de ses clients. A cet effet, elle procède à la passation, à la liquidation, au paiement puis à l’enlèvement des marchandises.\n"
         actions:
-          - label: Learn More
+          - label: EN SAVOIR PLUS
             url: /features
             style: secondary
             has_icon: true
