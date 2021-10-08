@@ -35,7 +35,7 @@ sections:
 
       *   Commerce générale import export.
     actions:
-      - label: Nousjoindre
+      - label: Nous joindre
         url: /signup
         style: primary
       - label: View Demo
