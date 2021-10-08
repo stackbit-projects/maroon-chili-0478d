@@ -12,13 +12,13 @@
                 "style": "link"
             },
             {
-                "label": "Nos services",
-                "url": "/features",
+                "label": "Pricing",
+                "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Nos services",
+                "url": "/features",
                 "style": "link"
             },
             {
