@@ -6,8 +6,8 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    content: >+
-      **SOGRANES **est situe sur le boulevard Charles -De gaule a N’Djamena. 
+    content: >
+      **SOGRANES** est situe sur le boulevard Charles -De gaule a N’Djamena. 
       C’est dans ce cadre spacieux qu’elle opère avec des moyens humains et
       matériels conséquents lui permettant d’offrir des prestations de qualité à
       ces clients. Elle travaille uniquement avec des personnes morales pour
@@ -33,8 +33,7 @@ sections:
 
       *   Prestations de services.
 
-      *   Commerce générale import export. 
-
+      *   Commerce générale import export.
     actions:
       - label: Free Trial
         url: /signup
