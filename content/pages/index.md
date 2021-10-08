@@ -26,12 +26,12 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          met à votre disposition des spécialistes du domaine des transports et
-          de la logistique de haut niveau, maîtrisant les différents accords
-          préférentiels en matière de commerce international entre les Etats et
-          les regroupements économiques et commerciaux régionaux et sous
-          régionaux et capables de connaître les régimes ou taux douaniers
-          applicables selon le cas et à votre avantage.
+          # **SOGRANES** met à votre disposition des spécialistes du domaine des
+          transports et de la logistique de haut niveau, maîtrisant les
+          différents accords préférentiels en matière de commerce international
+          entre les Etats et les regroupements économiques et commerciaux
+          régionaux et sous régionaux et capables de connaître les régimes ou
+          taux douaniers applicables selon le cas et à votre avantage.
         actions:
           - label: Learn More
             url: /features
