@@ -16,7 +16,7 @@ sections:
       l’emmagasinage.
 
 
-      NOS SERVICES
+      **NOS SERVICES**
 
 
       *   Représentation commerciale.
