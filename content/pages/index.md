@@ -23,7 +23,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
-        image: images/feature1.png
+        image: /images/port-g0f240474e_1920.jpg
         image_alt: App preview on a phone and tablet
         content: >
           **SOGRANES** met à votre disposition des spécialistes du domaine des
