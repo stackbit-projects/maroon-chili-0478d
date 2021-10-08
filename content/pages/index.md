@@ -33,7 +33,7 @@ sections:
           régionaux et sous régionaux et capables de connaître les régimes ou
           taux douaniers applicables selon le cas et à votre avantage.
         actions:
-          - label: Learn More
+          - label: EN SAVOIR PLUS
             url: /features
             style: secondary
             has_icon: true
