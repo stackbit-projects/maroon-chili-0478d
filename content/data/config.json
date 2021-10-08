@@ -31,7 +31,8 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_img_alt": "SOGRANES"
     },
     "footer": {
         "sections": [
