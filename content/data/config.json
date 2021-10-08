@@ -1,7 +1,7 @@
 {
     "title": "SOGRANES",
     "path_prefix": "/",
-    "base_font": "fira-sans",
+    "base_font": "system-sans",
     "palette": "orange",
     "header": {
         "has_nav": true,
