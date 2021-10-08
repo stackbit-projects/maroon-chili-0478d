@@ -38,7 +38,7 @@ sections:
       - label: Nous joindre
         url: /signup
         style: primary
-      - label: consultation
+      - label: Consultation
         url: '#'
         style: secondary
     title: NOS SERVICES
