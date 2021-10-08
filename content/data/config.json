@@ -31,8 +31,7 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ],
-        "logo_img": "/images/LogoMakr-1MjajO.png"
+        ]
     },
     "footer": {
         "sections": [
