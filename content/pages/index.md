@@ -26,7 +26,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          # **SOGRANES** met à votre disposition des spécialistes du domaine des
+          **SOGRANES** met à votre disposition des spécialistes du domaine des
           transports et de la logistique de haut niveau, maîtrisant les
           différents accords préférentiels en matière de commerce international
           entre les Etats et les regroupements économiques et commerciaux
