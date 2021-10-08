@@ -53,10 +53,7 @@ sections:
       - title: Négociateur d'offres et contracts
         image: /images/sunset-gd0e7fa0e7_1920.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: "**SOGRANES**\_est spécialisée en l’achat et la revente de produits alimentaires. Nous pouvons aussi sur demande, fournir des produits de commerce général.\n"
         actions:
           - label: Learn More
             url: /features
