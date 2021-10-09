@@ -23,7 +23,7 @@ sections:
       qui nous confère des obligations de qualité de produits et de services
     features:
       - title: Représentation commerciale
-        image: /images/port-g0f240474e_1920.jpg
+        image: /images/pexels-quintin-gellar-2199293-d17a63f0.jpg
         image_alt: App preview on a phone and tablet
         content: >
           **SOGRANES** met à votre disposition des spécialistes du domaine des
