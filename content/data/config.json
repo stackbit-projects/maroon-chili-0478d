@@ -102,7 +102,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "S",
+                "title": "S'inscrire",
                 "content": "Stay up to date with our latest developments.",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
