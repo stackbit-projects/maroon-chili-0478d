@@ -50,7 +50,8 @@
                 "nav_links": [
                     {
                         "url": "/about",
-                        "style": "link"
+                        "style": "link",
+                        "label": "Q "
                     },
                     {
                         "label": "Blog",
