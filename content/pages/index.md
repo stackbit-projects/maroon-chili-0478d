@@ -95,6 +95,9 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+    subtitle: >-
+      SOGENET est disposée à vous offrir ses prestations, sur votre propre
+      demande
   - section_id: recent-posts
     type: section_posts
     background: gray
