@@ -49,6 +49,7 @@ sections:
       - label: Get Started
         url: '#'
         style: secondary
+    title: 'Toutes destinations, à l’import et à l’export'
 seo:
   title: Features
   description: This is the features page
