@@ -1,8 +1,8 @@
 ---
 title: Logistique et Transport
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  Expert en Logistique, transit et fret aériens et maritimes, nous répondons à
+  tous vos projets d’activités d’exportation et d’importation en Afrique
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: /images/4563435333_large-d1596077.jpg
