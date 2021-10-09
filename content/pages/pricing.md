@@ -7,20 +7,6 @@ sections:
     title: CONTACT
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Professional
-        subtitle: For medium-sized businesses
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
-        highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-            style: primary
       - title: Enterprise
         subtitle: For very large businesses
         price: $149/m
