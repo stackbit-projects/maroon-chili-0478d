@@ -40,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Commerce des produits agricoles
-        image: /images/pexels-quintin-gellar-2199293.jpg
+        image: /images/a8e5snjc3jjs00t6af2pffanv3-20190326140420.Medi-aa95f12f.jpeg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
