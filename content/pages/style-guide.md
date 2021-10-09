@@ -1,8 +1,8 @@
 ---
 title: QUI SOMMES-NOUS?
 subtitle: >-
-  met à votre disposition son expérience et toute son expertise pour vous
-  accompagner dans vos besoins logistiques.
+  SOGRANES met à votre disposition son expérience et toute son expertise pour
+  vous accompagner dans vos besoins logistiques.
 seo:
   title: Style Guide
   description: This is the style guide page
