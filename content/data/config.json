@@ -115,7 +115,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscrib"
+                "submit_label": "Soumettre"
             }
         ],
         "has_nav": true,
