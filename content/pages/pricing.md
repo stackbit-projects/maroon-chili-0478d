@@ -5,7 +5,7 @@ sections:
     type: section_faq
     background: gray
     title: COMMENT NOUS JOINDRE
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Nous avons la solution à vos besoins de transit
     faq_items:
       - question: ADRESSE
       - question: TÉLÉPHONE
