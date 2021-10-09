@@ -44,7 +44,7 @@ sections:
         image_alt: App users welcoming a new member
         content: "**SOGRANES**\_est spécialisée en l’achat et la revente de produits alimentaires. Nous pouvons aussi sur demande, fournir des produits de commerce général.\n"
         actions:
-          - label: Learn More
+          - label: EN SAVOIR PLUS
             url: /features
             style: secondary
             has_icon: true
