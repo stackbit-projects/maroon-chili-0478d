@@ -90,7 +90,7 @@ sections:
     type: section_cta
     title: ' N’hésitez pas à nous contacter pour toute demande'
     actions:
-      - label: 'N'
+      - label: Nous joindre
         url: /signup
         style: primary
     subtitle: >-
