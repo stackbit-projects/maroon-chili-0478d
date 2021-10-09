@@ -103,7 +103,7 @@
             {
                 "type": "footer_form",
                 "title": "S'inscrire",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Merci de nous contacter\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
