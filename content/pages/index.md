@@ -54,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Commerce générale import export
-        image: /images/sunset-gd0e7fa0e7_1920.jpg
+        image: /images/port-g0f240474e_1920-8bc2067d.jpg
         image_alt: App user profile preview
         content: "**SOGRANES**\_effectue des formalités de déclaration à la douane pour le compte de ses clients. A cet effet, elle procède à la passation, à la liquidation, au paiement puis à l’enlèvement des marchandises.\n"
         actions:
