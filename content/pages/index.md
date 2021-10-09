@@ -99,7 +99,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Nos activites
+    title: Nos activités
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
