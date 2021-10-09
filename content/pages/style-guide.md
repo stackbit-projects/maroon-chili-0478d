@@ -1,9 +1,8 @@
 ---
 title: QUI SOMMES-NOUS?
 subtitle: >-
-  Spécialiste de l’organisation du transport en B2B mais également en B2C, nous
-  avons LA solution sur-mesure pour le transport et la logistique de vos
-  marchandises à l’international.
+  met à votre disposition son expérience et toute son expertise pour vous
+  accompagner dans vos besoins logistiques.
 seo:
   title: Style Guide
   description: This is the style guide page
