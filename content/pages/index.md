@@ -65,9 +65,7 @@ sections:
     type: section_reviews
     background: white
     title: Témoignages
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: le professionnalisme et la rapide mobilité
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
