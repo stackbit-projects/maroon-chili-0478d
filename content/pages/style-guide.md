@@ -24,7 +24,8 @@ seo:
       value: This is the style guide page
 layout: page
 ---
-Ainsi, nous mettons donc à votre service des 
+Ainsi, nous mettons donc à votre service des **équipes qualifiées et dédiées** pour vous aider à gagner le challenge d’une chaîne logistique performante et maîtrisée.
+
 
 Faites de notre expertise logistique un avantage concurrentiel, afin de maîtriser vos coûts et votre productivité, de rationaliser vos stocks et ainsi gagner en flexibilité.
 
