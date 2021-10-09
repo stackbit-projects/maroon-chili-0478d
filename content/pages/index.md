@@ -42,10 +42,7 @@ sections:
       - title: Commerce des produits agricoles
         image: /images/a8e5snjc3jjs00t6af2pffanv3-20190326140420.Medi-aa95f12f.jpeg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: "**SOGRANES**\_est spécialisée en l’achat et la revente de produits alimentaires. Nous pouvons aussi sur demande, fournir des produits de commerce général.\n"
         actions:
           - label: Learn More
             url: /features
