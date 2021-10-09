@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: TRANSIT & DOUANE
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
