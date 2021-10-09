@@ -4,8 +4,9 @@ subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Spécialiste de l’organisation du transport en B2B mais également en B2C, nous
+  avons LA solution sur-mesure pour le transport et la logistique de vos
+  marchandises à l’international.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: /images/shutterstock_95165017.jpg
