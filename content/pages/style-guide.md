@@ -1,9 +1,9 @@
 ---
 title: QUI SOMMES-NOUS?
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Spécialiste de l’organisation du transport en B2B mais également en B2C, nous
+  avons LA solution sur-mesure pour le transport et la logistique de vos
+  marchandises à l’international.
 seo:
   title: Style Guide
   description: This is the style guide page
