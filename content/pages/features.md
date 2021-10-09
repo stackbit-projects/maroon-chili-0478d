@@ -44,7 +44,6 @@ sections:
     title: NOS SERVICES
   - section_id: call-to-action
     type: section_cta
-    title: 'https://app.stackbit.com/studio/6160478d14f2ad00beb607ce#/features/'
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
