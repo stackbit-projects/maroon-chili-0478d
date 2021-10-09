@@ -46,7 +46,7 @@ sections:
     type: section_cta
     subtitle: Spécialiste de l’organisation du transport en B2B
     actions:
-      - label: 'N'
+      - label: NOUS JOINDRE
         url: '#'
         style: secondary
     title: 'Toutes destinations, à l’import et à l’export'
