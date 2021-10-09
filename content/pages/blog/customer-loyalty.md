@@ -1,5 +1,5 @@
 ---
-title: Transit & DOUANE
+title: Transit & Douane
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
