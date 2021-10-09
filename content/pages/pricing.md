@@ -4,7 +4,7 @@ sections:
   - section_id: faq
     type: section_faq
     background: gray
-    title: Frequently Asked Questions
+    title: C
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
       - question: ADRESSE
