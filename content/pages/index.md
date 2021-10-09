@@ -22,7 +22,7 @@ sections:
       L’objectif de SOGRANES est essentiellement orienté vers le long terme, ce
       qui nous confère des obligations de qualité de produits et de services
     features:
-      - title: Reresentation commerciale
+      - title: Représentation commerciale
         image: /images/port-g0f240474e_1920.jpg
         image_alt: App preview on a phone and tablet
         content: >
