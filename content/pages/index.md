@@ -39,7 +39,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Commerce des produits agricole
+      - title: Commerce des produits agricoles
         image: /images/pexels-quintin-gellar-2199293.jpg
         image_alt: App users welcoming a new member
         content: >-
