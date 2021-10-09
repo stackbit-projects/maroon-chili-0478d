@@ -3,8 +3,9 @@ title: Transit & Douane
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Grâce à des partenariats locaux solides et de qualité, nous vous garantissons
+  la meilleure offre possible qui répond à tous vos besoins d’import et d’export
+  depuis et vers l’Afrique.
 date: '2021-01-03'
 thumb_image: /images/206240182_large.jpg
 thumb_image_alt: A group of people working in a cafe
