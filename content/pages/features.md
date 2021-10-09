@@ -44,7 +44,7 @@ sections:
     title: NOS SERVICES
   - section_id: call-to-action
     type: section_cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Spécialiste de l’organisation du transport en B2B,'
     actions:
       - label: Get Started
         url: '#'
