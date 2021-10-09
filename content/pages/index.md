@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: NOTRE OB
+    title: NOTRE OBJECTIF
     subtitle: >-
       L’objectif de SOGRANES est essentiellement orienté vers le long terme, ce
       qui nous confère des obligations de qualité de produits et de services
