@@ -95,7 +95,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-    subtitle: 'SOGE est disposée à vous offrir ses prestations, sur votre propre demande'
+    subtitle: 'SOG est disposée à vous offrir ses prestations, sur votre propre demande'
   - section_id: recent-posts
     type: section_posts
     background: gray
