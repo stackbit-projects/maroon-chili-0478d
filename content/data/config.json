@@ -46,7 +46,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "La societe",
                 "nav_links": [
                     {
                         "url": "/about",
